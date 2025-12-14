@@ -1,7 +1,6 @@
 <h2 align="center">Recently I Worked With</h2>
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="9" />
